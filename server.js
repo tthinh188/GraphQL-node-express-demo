@@ -29,7 +29,7 @@ const books = [
 ]
 
 const abc = 123;
-
+   
 const BookType = new GraphQLObjectType({
     name: 'Book',
     description: 'This represents a book written by an author',
